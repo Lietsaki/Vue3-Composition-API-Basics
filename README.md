@@ -1,4 +1,4 @@
-# dojo-blog
+# # Vue3-Composition-API-Basics - dojo-blog
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue3-Composition-API-Basics
+
